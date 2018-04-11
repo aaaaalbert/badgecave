@@ -1,7 +1,7 @@
 # badgecave
 
 This is a collection of badge templates for READMEs, based on what our friends
-at @theupdatframework show.
+at @theupdateframework show.
 To use these badges for your repos, make the link in the respective badge
 point to your repo or registered project number. Remember to configure CI,
 tests, updates etc. too, or the badges will look sad and dull.
